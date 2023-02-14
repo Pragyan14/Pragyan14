@@ -1,4 +1,3 @@
-<h1>I'm Pragyan Patidar</h1>
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Java and Backend<br>👯 I’m looking to collaborate on Full Stack project<br>📫 How to reach me pragyanpatidar14@gmail.com
 
